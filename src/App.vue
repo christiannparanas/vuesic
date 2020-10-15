@@ -1,5 +1,5 @@
 <template>
-  <HelloWorld msg="ano nadara "/>
+  <HelloWorld msg="hey christian watawat"/>
 </template>
 
 <script>
